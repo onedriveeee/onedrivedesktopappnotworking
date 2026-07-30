@@ -1,5 +1,4 @@
-project = 'Onedrive Desktop App Not Working
-'
+project = 'Onedrive Desktop App Not Working'
 author = 'Your Name'
 release = '1.0'
 
